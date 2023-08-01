@@ -33,7 +33,7 @@ DATABASES = {
 }
 ```
 
-### Apply migrations
+### Apply migrations. If Its a Linux server r u using then use python3 I am using a Windows server so am using python
 
 ```bash
 python manage.py makemigrations
