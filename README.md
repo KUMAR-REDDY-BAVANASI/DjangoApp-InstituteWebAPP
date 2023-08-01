@@ -14,8 +14,8 @@ cd djangoapp-instituteproject
 ### Install dependencies & activate virtualenv
 
 ```bash
-pip install -r requirements.txt
 source python3.8/bin/activate
+pip install -r requirements.txt
 ```
 
 ### Configure the settings (connection to the database, connection to an SMTP server, and other options)
