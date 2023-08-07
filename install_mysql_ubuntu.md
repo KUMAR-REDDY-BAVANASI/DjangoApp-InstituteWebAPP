@@ -78,6 +78,8 @@ DATABASES = {
 Apply the database migrations to create the necessary database tables:
 
 ```
+python3 manage.py makemigrations
+python3 manage.py makemigrations <projectappfolder>
 python3 manage.py migrate
 ```
 
